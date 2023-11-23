@@ -1,0 +1,1 @@
+This protocol provides a static main method that can run when an app is launched, provided the conformer is declared with the [[@main]] attribute. [[SwiftUI]] provides default implementation of this method which manages the launch process in platform appropriate way.

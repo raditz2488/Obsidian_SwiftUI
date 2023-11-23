@@ -1,0 +1,1 @@
+@main provides a way to introduce an entry point for a SwiftUI App. It is usually used with an [[App]] conforming type.
